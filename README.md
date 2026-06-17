@@ -45,7 +45,7 @@ I enjoy building real-world projects that combine cloud technologies, software e
 ## 📘 Education  
 **B.Tech in Computer Science & Engineering**  
 **Specialization:** Cloud Computing  
-🎓 *Expected Graduation: 2026*  
+🎓 *Expected Graduation: 2027*  
 
 ---
 
